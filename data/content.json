@@ -1,0 +1,40 @@
+{
+  "openrouterApiKey": "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",
+  "icons": {
+    "github": {
+      "title": "GitHub",
+      "text": "Репозитории и проекты.",
+      "link": "https://github.com/pod99"
+    },
+    "spotify": {
+      "title": "Spotify",
+      "text": "Плейлист и музыка.",
+      "link": "https://open.spotify.com/playlist/1JSMQ8CrA6lR0vvevQUMWE?si=6b1e92e0973646ac"
+    },
+    "download": {
+      "title": "ZIP",
+      "text": "Скачать набор материалов.",
+      "link": "https://drive.google.com/drive/folders/1yZLkEvjqZKiBLg9ACPKJp5m4Iblp-aO-?usp=share_link"
+    },
+    "telegram": {
+      "title": "Telegram",
+      "text": "Канал обновлений.",
+      "link": "https://t.me/So1oRanker"
+    },
+    "weather": {
+      "title": "Погода",
+      "text": "Москва — сейчас.",
+      "link": ""
+    },
+    "ai": {
+      "title": "AI",
+      "text": "Задайте вопрос через OpenRouter.",
+      "link": ""
+    },
+    "timeline": {
+      "title": "Timeline",
+      "text": "Прогресс на 2026.",
+      "link": ""
+    }
+  }
+}
